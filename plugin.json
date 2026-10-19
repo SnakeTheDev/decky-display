@@ -1,0 +1,11 @@
+{
+  "name": "Deck as Display",
+  "author": "filesfor",
+  "flags": ["debug", "_root"],
+  "api_version": 1,
+  "publish": {
+    "tags": ["display", "capture", "second-screen"],
+    "description": "Use the Steam Deck's screen as a display for another machine, via a USB capture adapter.",
+    "image": "https://opengraph.githubassets.com/1/SteamDeckHomebrew/PluginLoader"
+  }
+}
